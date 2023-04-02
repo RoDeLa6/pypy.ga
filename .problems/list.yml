@@ -1,4 +1,93 @@
-- category: 함수와 리스트
+- category: "2023 면접"
+  problems:
+    - id: 13017
+      name: (하) 구구단
+      level: 20
+
+    - id: 13018
+      name: (중) 소인수분해
+      level: 30
+
+    - id: 13019
+      name: (상) 양팔저울
+      level: 40
+
+    - id: 13020
+      name: 보너스 문제
+      level: 0
+
+
+- category: "면접 대비"
+  problems:
+    - id: 13013
+      name: 계산기
+      level: 20
+    - id: 13014
+      name: 피보나치 수열
+      level: 30
+    - id: 13015
+      name: 행렬
+      level: 40
+
+- category: "#1 : 코딩 쫄 거 없어"
+  problems:
+    - id: 13001
+      name: 🎬 x+y
+      level: 10
+
+- category: "#2 : 변수"
+  problems:
+    - id: 13002
+      name: 🎬 x=x+1
+      level: 15
+
+    - id: 13003
+      name: +-*/
+      level: 15
+
+    - id: 13004
+      name: // %
+      level: 15
+
+- category: "#3 : 문자"
+  problems:
+    - id: 13005
+      name: 🎬 "문자"
+      level: 20
+
+    - id: 13006
+      name: 문자+문자
+      level: 20
+
+    - id: 13007
+      name: int str
+      level: 20
+
+    - id: 13008
+      name: 💡 입력
+      level: 100
+
+- category: "#4 : if"
+  problems:
+    - id: 13009
+      name: 🎬 if
+      level: 25
+
+    - id: 13010
+      name: else
+      level: 25
+
+- category: "#5 : 반복"
+  problems:
+    - id: 13011
+      name: 🎬 while
+      level: 30
+
+    - id: 13012
+      name: 🎬 for
+      level: 30
+
+- category: 2022년의 흔적
   problems:
     - id: 12001
       name: 숫자 뒤집기
@@ -8,8 +97,6 @@
       name: 순서 뒤집기
       level: 30
 
-- category: ※ 수행평가 대비 ※
-  problems:
     - id: 11001
       name: 합격
       level: 20
@@ -75,8 +162,6 @@
       level: 40
       serve_code: true
 
-- category: 출력
-  problems:
     - id: 10001
       name: Hello World
       level: 10
@@ -89,8 +174,6 @@
       name: 면 음식 월드컵
       level: 20
 
-- category: 입력
-  problems:
     - id: 10003
       name: 자기소개
       level: 10
@@ -99,8 +182,6 @@
       name: 따옴표
       level: 15
 
-- category: 변수와 연산
-  problems:
     - id: 10012
       name: A+B
       level: 10
@@ -113,8 +194,6 @@
       name: 사칙연산
       level: 20
 
-- category: 조건문
-  problems:
     - id: 10009
       name: 예체능
       level: 15
@@ -131,8 +210,6 @@
       name: 배달의 민족
       level: 40
 
-- category: 문자열
-  problems:
     - id: 10014
       name: 출력 초과
       level: 20
@@ -157,8 +234,6 @@
       name: 우영우
       level: 30
 
-- category: 반복문
-  problems:
     - id: 10019
       name: 판플렛
       level: 15
@@ -175,8 +250,6 @@
       name: 369 게임
       level: 50
 
-- category: 파이가 (Pypy.ga)
-  problems:
     - id: 10000
       name: 파이가 이용 가이드
       level: 10
